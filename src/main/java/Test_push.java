@@ -16,5 +16,6 @@ public class Test_push {
     public static void main(String args[]){
         // TODO code application logic here
         System.out.println("test git e primo funzionamento java");
+        System.out.println("commit");
     }
 }
