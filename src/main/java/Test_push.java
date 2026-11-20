@@ -17,5 +17,6 @@ public class Test_push {
         // TODO code application logic here
         System.out.println("test git e primo funzionamento java");
         System.out.println("commit");
+        System.out.println("commit test Samu");
     }
 }
